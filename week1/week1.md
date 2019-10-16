@@ -1,7 +1,10 @@
 # Week1 homework
 
 A game like Simon says. I made 10 levels. First, you need to press any button to start the game.
+
+
 [simon says video](https://www.youtube.com/watch?v=Wuwy5Wc79yc)
+
 
 ![simon says picture](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week1/simon-pic1.JPG)
 
@@ -220,7 +223,7 @@ void right()
 # test
 At the beginning,I misunderstood the homework requirement. But the game didn't work so well.
 
-This is a game that whichever leds are light, press the corresponding buttons.
+Press the corresponding button according to the order of LEDS lighting.
 ``` 
 char switch_flag=0;
 char key_state[3][3] = {{0,0,0}, {0,0,0},{0,0,0}};        
