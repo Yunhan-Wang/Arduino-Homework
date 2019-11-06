@@ -1,7 +1,7 @@
 
 # Final project week1
 
-## Idea1 Color speaker
+## Idea01  Color speaker
 
 Input1:switch
 
@@ -21,7 +21,7 @@ This game explores the relationship between color and music.  Players make their
 ![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week5/957c5e7e2676a235b8cccbda2ba09c74.jpg)
 
 
-## Idea2 I Believe 
+## Idea02  I Believe 
 
 Input1:infrared induction（On the clothes）
 
@@ -38,7 +38,7 @@ Output2:shake
 It's a game that two people cooperate with each other. The first step is for the two players to wear cloth with sensors(input1). Then the game starts. Player A's sensor vibrates(output1), and player A quickly tells player B where the sensor is. If player B taps the right sensor(input2), the game continues with some warning tone（output2）. This game tests the cooperation of two people. As long as one person is wrong, the game can't go on.
 
 
-## Finally, We decided to take  Idea1 and refine it next. 
+### Finally, We decided to take  Idea1 and refine it next. 
 Phoenix suggested that I use the camera instead of the color sensor.
 But then there's only one input，I need to think of another one. 
 And I realized that it had to be meaningful to my concept.
