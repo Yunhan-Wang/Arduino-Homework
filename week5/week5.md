@@ -3,10 +3,13 @@
 
 ## Idea1 Color speaker
 
-·Input1:switch
-·Input2:color sensor
-·Output1:music
-·Output2:rotation
+Input1:switch
+
+Input2:color sensor
+
+Output1:music
+
+Output2:rotation
 
 ### concept
 ![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week5/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-11-06%20%E4%B8%8B%E5%8D%8810.25.08.png)
