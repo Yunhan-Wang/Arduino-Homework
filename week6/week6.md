@@ -22,6 +22,7 @@ We did the experiment with three different capacitors.
 [video link](https://youtu.be/B4y01yoSWmY)
 
 ### 03 High Five
+![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week6/high5.JPG)
 [video link](https://youtu.be/X6OplTC3lIM)
 
 
