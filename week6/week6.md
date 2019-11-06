@@ -29,4 +29,5 @@ We did the experiment with three different capacitors.
 
 Light sensor + potentiometer + High Five
 [video line](https://youtu.be/oXEiPWE_gTw)
+![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week6/1%2B1%2B1.JPG)
 
