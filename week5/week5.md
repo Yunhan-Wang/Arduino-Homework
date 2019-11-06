@@ -22,8 +22,11 @@ The form of the sticker was inspired by the artist Yayoi Kusama.
 ## Idea2 I Believe 
 
 Input1:infrared induction（On the clothes）
+
 Input2:touch sensors
+
 Output1:music
+
 Output2:shake
 
 
