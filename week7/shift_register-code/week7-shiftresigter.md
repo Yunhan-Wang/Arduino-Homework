@@ -9,7 +9,7 @@ We need these  components
 This is the circuit we followed along with the tutorial
 ![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week7/shift_register-code/circuit.JPG)
 
-After uploading the code, the light bulbs turn on in order!
+After uploading the code, the LEDs turn on in order!
 [video link](https://youtu.be/B5aRxm9k86U)
 ！[](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week7/shift_register-code/IMG_9383.JPG)
 ## I find that I can use markdown skillfully now, thank you phoenix!
