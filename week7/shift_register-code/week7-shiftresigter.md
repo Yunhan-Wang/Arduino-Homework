@@ -3,9 +3,11 @@
 ## Shift Register and Multiplexing
 This week we learned how to use shift register
 
-![We need these  components](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week7/shift_register-code/component.JPG)
+We need these  components
+![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week7/shift_register-code/component.JPG)
 
-![This is the circuit we followed along with the tutorial](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week7/shift_register-code/circuit.JPG)
+This is the circuit we followed along with the tutorial
+![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/week7/shift_register-code/circuit.JPG)
 
 After uploading the code, the light bulbs turn on in order!
 [video link](https://youtu.be/B5aRxm9k86U)
