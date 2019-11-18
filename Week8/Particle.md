@@ -19,7 +19,7 @@ There is an LED on the board, on the D7 pin.
 
 2. You can also enter code to make changes to the LED（D7 pin） on the board or the parts connected to the board.
 
-This is the web side of the app, and you can type in the code here. 👇 
+This is the web side of the app, and you can type in the code here. 👉 
 [Particle build](https://build.particle.io/build/new)
 (At the end of the video tutorial in part 1, there is information about how to enter code.) 
 
